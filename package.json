@@ -1,0 +1,21 @@
+{
+    "name": "Friendly-DarkTheme",
+    "displayName": "Friendly-DarkTheme",
+    "description": "Dark Theme based on Dark+ & Monokai VSCode themes but with more vibrant and easy to read colors for different coding languages.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Friendly",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Friendly-color-theme.json"
+            }
+        ]
+    }
+}
