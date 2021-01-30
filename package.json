@@ -3,6 +3,8 @@
     "displayName": "Friendly-DarkTheme",
     "description": "Dark Theme based on Dark+ & Monokai VSCode themes but with more vibrant and easy to read colors for different coding languages.",
     "version": "0.0.1",
+    "publisher": "Emad-W",
+    "repository": "https://github.com/Emad-W/Friendly-DarkTheme",
     "engines": {
         "vscode": "^1.52.0"
     },

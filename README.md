@@ -1,13 +1,13 @@
-# README
-## This is the README for your extension "Friendly-DarkTheme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Friendly Dark Theme
+## Presenting to you  Dark theme: "Friendly-DarkTheme" 
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+This is a uniquly designed Dark theme based on Dark+ & Monokai VSCode pre-installed themes as well as inheritance from many others like Atom One & Material Theme.
+
+After searching many Dark themes in the marketplace, I finally decided to build my own vibrant and easy to read dark theme based colors, It supports many coding languages as well as coding styles.
+
+Hope you like it,
 
 ### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+* For issues and features, please refer to the orginal Githib repo [Friendly-DarkTheme Github](https://github.com/Emad-W/Friendly-DarkTheme)
 
 **Enjoy!**
