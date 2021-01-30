@@ -8,6 +8,6 @@ After searching many Dark themes in the marketplace, I finally decided to build 
 Hope you like it,
 
 ### For more information
-* For issues and features, please refer to the orginal Githib repo [Friendly-DarkTheme Github](https://github.com/Emad-W/Friendly-DarkTheme)
+* For issues and feature requests, please refer to the orginal Githib repo [Friendly-DarkTheme Github](https://github.com/Emad-W/Friendly-DarkTheme)
 
 **Enjoy!**
